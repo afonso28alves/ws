@@ -1,0 +1,9 @@
+git clone https://github.com/afonso28alves/ws.git
+
+cd ws
+
+git add .
+git commit -m "Mensagem das alterações"
+git push
+
+git pull
