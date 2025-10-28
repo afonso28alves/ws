@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Sérgio",
+        "idade": "13",
+        "morada": "Funchal"
+    },
+    {
+        "nome": "Alves",
+        "idade": "25",
+        "morada": "Calheta"
+    },
+    {
+        "nome": "Joana",
+        "idade": "53",
+        "morada": "Porto Moniz"
+    }
+]

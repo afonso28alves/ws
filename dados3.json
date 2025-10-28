@@ -1,0 +1,59 @@
+{
+    "listapessoas":{
+        "pessoas":[
+            {
+                "nome": "Afonso",
+                "idade": 18,
+                "url_foto": "https://imagehandler.fpf.pt/ScoreImageHandler.ashx?type=Organization&id=503",
+                "dados":[
+                    {
+                        "morada": "FNC",
+                        "idolo": "Mc Kevinho"
+                    },{
+                        "hobbies": "Bisca",
+                        "serie": "Big bang"
+                    }
+                ]
+            },{
+                "nome": "Joaquim",
+                "idade": 67,
+                "url_foto": "https://imagehandler.fpf.pt/ScoreImageHandler.ashx?type=Organization&id=503",
+                "dados":[
+                    {
+                        "morada": "PXO",
+                        "idolo": "CR7"
+                    },{
+                        "hobbies": "Casino",
+                        "serie": "Discovery"
+                    }
+                ]
+            },{
+                "nome": "Maria",
+                "idade": 12,
+                "url_foto": "https://imagehandler.fpf.pt/ScoreImageHandler.ashx?type=Organization&id=503",
+                "dados":[
+                    {
+                        "morada": "RB",
+                        "idolo": "Barbie"
+                    },{
+                        "hobbies": "Peixinho",
+                        "serie": "Princesas"
+                    }
+                ]
+            }
+        ]
+    },
+    "listaprodutos":{
+        "produtos":[
+            {
+                "id":1212,
+                "descricao": "Asus Rog 123",
+                "preco": 2000
+            },{
+                "id":1213,
+                "descricao": "Rtx 3090",
+                "preco": 750
+            }
+        ]
+    }
+}

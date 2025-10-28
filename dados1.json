@@ -1,0 +1,39 @@
+[
+    {
+        "nome": "Sérgio",
+        "idade": "13",
+        "morada": "Funchal",
+        "caracteristicas": [
+            {
+                "altura": "1,84",
+                "peso": "97",
+                "cor": "caucasiano"
+            }
+            
+        ]
+    },
+    {
+        "nome": "Alves",
+        "idade": "25",
+        "morada": "Calheta",
+        "caracteristicas": [
+            {
+                "altura": "1,54",
+                "peso": "49",
+                "cor": "caucasiano"
+            }   
+        ]
+    },
+    {
+        "nome": "Joana",
+        "idade": "53",
+        "morada": "Porto Moniz",
+        "caracteristicas": [
+            {
+                "altura": "2,14",
+                "peso": "55",
+                "cor": "caucasiano"
+            }
+        ]
+    }
+]

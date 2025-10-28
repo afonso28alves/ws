@@ -1,0 +1,34 @@
+Interface -> so declara metodo, obriga a usar os que estao criados
+classe abstrata -> posso usar alguns e criar outros
+
+- Criar a classe de model(Tabela de bd)
+    - Class User(liga tb user) 
+    - Class Cliente(liga tb cliente)
+- Criar a classe BD(Padrão desenho singleton)
+-Criar pasta para o servidor node.json_decode
+    -Criar server.js
+        -via cmd
+            - npm -v , deve ser superior a 6
+            - criar o projeto
+                - npm init, de forma a gerar o package.json 
+                - modulo mysql2 -> versao moderna de SQBD mysql2
+                    - npm install mysql2
+        -Entrar na raiz do server(cd node)
+            - node server.js no cmd para mostrar a tabela user
+            -Criar o file de bd sql(database.js)
+            - Criar proRequest.js para servidor http controla GET e POST
+        - Criar um json.php padronizar a saida json, atraves do construtor
+        - Criar um db.php para acesso ao servidor mysql do server APACHE
+        - Criar ws -> servidor php para webservice no server apache
+            - Controlar via .htaccess o nome recebido
+                dominio/controller
+                ex: controler -> user
+            - via GET captura esse controler
+                cd node
+                http://localhost/prog23_opp/AfonsoAlvesws/node_bd/user
+            - verifica se o file user.php existe
+                - caso exista instancio o obj user
+            - se nao existir apresento uma msg de erro ou sem controlo
+            - via POST recebe um pedido de insert, via CURL
+            
+

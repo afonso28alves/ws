@@ -1,0 +1,69 @@
+{
+    "users":[
+        {
+            "user": "alafonso",
+            "password": "1234"
+        },{
+            "user": "aljoao",
+            "password": "4321"
+        },{
+            "user": "almaria",
+            "password": "0000"
+        }
+    ],
+    "listaclientes": {
+        "clientes":[
+            {
+                "nome": "Rui Abreu",
+                "tipo": "privado",
+                "saldo": 1000
+            },{
+                "nome": "Joana Alves",
+                "tipo": "cooperativa",
+                "saldo": 3500
+            },{
+                "nome": "André Lopes",
+                "tipo": "empresarial",
+                "saldo": 10000
+            },{
+                "nome": "Manuel Lopes",
+                "tipo": "privado",
+                "saldo": 400000
+            }
+        ]
+    },
+    "listaimoveis": {
+        "imoveis": [
+            {
+                "descricao":"Casa com piscina e salão nobre",
+                "preco": 1000000,
+                "tipologia": "T5",
+                "localizacao": "Monte-Funchal",
+                "details":[
+                    {
+                        "piscina": "Sim"
+                    },{
+                        "jardim": "Sim"
+                    },{
+                        "wc": "Não"
+                    }
+                ]
+            },
+            {
+                "descricao":"Casa com piscina e vista para o mar",
+                "preco": 25689810,
+                "tipologia": "T4",
+                "localizacao": "Caniçal",
+                "details":[
+                    {
+                        "quartos": "Não"
+                    },{
+                        "jardim": "Sim"
+                    },{
+                        "wc": "Não"
+                    }
+                ]    
+            }
+        ]
+    }
+}

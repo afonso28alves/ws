@@ -1,0 +1,47 @@
+[
+    {
+        "nome": "Sérgio",
+        "idade": "13",
+        "morada": "Funchal",
+        "caracteristicas": [
+            {
+                "altura": "1,84",
+                "peso": "97",
+                "cor": "caucasiano"
+            },{
+                "prof": "Médico",
+                "cat": "A3"
+            }
+        ]
+    },
+    {
+        "nome": "Alves",
+        "idade": "25",
+        "morada": "Calheta",
+        "caracteristicas": [
+            {
+                "altura": "1,54",
+                "peso": "49",
+                "cor": "caucasiano"
+            } ,{
+                "prof": "Pintor",
+                "cat": "B+"
+            } 
+        ]
+    },
+    {
+        "nome": "Joana",
+        "idade": "53",
+        "morada": "Porto Moniz",
+        "caracteristicas": [
+            {
+                "altura": "2,14",
+                "peso": "55",
+                "cor": "caucasiano"
+            },{
+                "prof": "Professor",
+                "cat": "B1"
+            }
+        ]
+    }
+]
